@@ -1,2 +1,2 @@
 # Desenvolvimento-Front-End
-Repositório para armazenar o conteúdo do LTI Front-end
+Repositório para armazenar todo o conteúdo do curso LTI Front-end
